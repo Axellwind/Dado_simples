@@ -1,0 +1,10 @@
+C:\Users\edgar\source\repos\Projeto_Dado\Projeto_Dado\bin\Debug\Projeto_Dado.exe.config
+C:\Users\edgar\source\repos\Projeto_Dado\Projeto_Dado\bin\Debug\Projeto_Dado.exe
+C:\Users\edgar\source\repos\Projeto_Dado\Projeto_Dado\bin\Debug\Projeto_Dado.pdb
+C:\Users\edgar\source\repos\Projeto_Dado\Projeto_Dado\obj\Debug\Projeto_Dado.csprojAssemblyReference.cache
+C:\Users\edgar\source\repos\Projeto_Dado\Projeto_Dado\obj\Debug\Projeto_Dado.Form1.resources
+C:\Users\edgar\source\repos\Projeto_Dado\Projeto_Dado\obj\Debug\Projeto_Dado.Properties.Resources.resources
+C:\Users\edgar\source\repos\Projeto_Dado\Projeto_Dado\obj\Debug\Projeto_Dado.csproj.GenerateResource.cache
+C:\Users\edgar\source\repos\Projeto_Dado\Projeto_Dado\obj\Debug\Projeto_Dado.csproj.CoreCompileInputs.cache
+C:\Users\edgar\source\repos\Projeto_Dado\Projeto_Dado\obj\Debug\Projeto_Dado.exe
+C:\Users\edgar\source\repos\Projeto_Dado\Projeto_Dado\obj\Debug\Projeto_Dado.pdb
